@@ -40,6 +40,8 @@ Skills: Python / R / Power BI / Tableau / SQL
 
 ⚡ Fun fact **Harry Potter FanFiction somehow better than original one**
 
+🤔 Skills: Python / R / Power BI / Tableau / SQL
+
  </div>
  
 <div align="center"> 

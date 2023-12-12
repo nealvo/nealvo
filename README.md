@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Neal Vo
 #### Data Scientist (ML,AI)
-![Data Scientist (ML,AI)](https://preview.redd.it/tiny-cute-anime-robot-v0-56jsl91o7kba1.jpg?auto=webp&s=80244f45730d13f70b1631ce9c2aea7217e4cf55)
+![Data Scientist (ML,AI)](https://github.com/nealvo/nealvo/blob/main/tiny-cute-anime-robot-v0-56jsl91o7kba1.webp)
 
 I'm Neal from Dallas, TX. and I'm currently a data scientist. I really enjoy machine learning and AI. You can check out my Linkedln at https://www.linkedin.com/in/nealdvo/
 

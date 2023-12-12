@@ -1,9 +1,7 @@
 
 
 
-### Hi there 👋, I'm Neal Vo
-#### Data Scientist (ML,AI)
-![Data Scientist (ML,AI)](https://github.com/nealvo/nealvo/blob/main/360_F_186820934_OJB7mPlfv4uP4k9D1Emsd5KqU7g1Slxg.jpg)
+
 
 I'm Neal from Dallas, TX. and I'm currently Data Scientist at AT&T 
 
@@ -18,11 +16,15 @@ Skills: Python / R / Power BI / Tableau / SQL
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@v4.0.0/icons/github.svg' alt='github' height='40'>](https://github.com/nealvo)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@v4.0.0/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nealdvo/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@v4.0.0/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/DuyVo1330075)
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=nealvo.nealvo" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Neal+Vo!;" />
 </h1>
+
+### Neal Vo
+#### Data Scientist (ML,AI)
+![Data Scientist (ML,AI)](https://github.com/nealvo/nealvo/blob/main/360_F_186820934_OJB7mPlfv4uP4k9D1Emsd5KqU7g1Slxg.jpg)
 
 <h3 align="center">A passionate data scientist from Dallas, TX, USA 🇺🇸</h3>
 
@@ -30,7 +32,7 @@ Skills: Python / R / Power BI / Tableau / SQL
 
 <div align="center">
  
- 🔭 I’m currently working on **machine learning project**
+ 🔭 I’m currently working on **Machine Learning project**
  
  🌱 I’m currently learning **AI, ML, DeepLearning**
 
@@ -67,7 +69,7 @@ Skills: Python / R / Power BI / Tableau / SQL
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/nealvo/nealvo/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
@@ -77,10 +79,10 @@ Skills: Python / R / Power BI / Tableau / SQL
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=nealvo&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=nealvo&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=nealvo&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 <br/><br/>

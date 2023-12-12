@@ -1,19 +1,3 @@
-
-
-
-
-
-I'm Neal from Dallas, TX. and I'm currently Data Scientist at AT&T 
-
-I really enjoy machine learning and AI. You can check out my Linkedln at https://www.linkedin.com/in/nealdvo/
-
-Skills: Python / R / Power BI / Tableau / SQL
-
-- 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning AI & ML 
-- 📫 How to reach me: https://www.linkedin.com/in/nealdvo/ 
-
-
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@v4.0.0/icons/github.svg' alt='github' height='40'>](https://github.com/nealvo)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@v4.0.0/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nealdvo/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@v4.0.0/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/DuyVo1330075)
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=nealvo.nealvo" />

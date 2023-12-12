@@ -16,7 +16,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Machine Learning project**
+ 🔭 I’m currently working on **Machine Learning project & this page**
  
  🌱 I’m currently learning **AI, ML, DeepLearning**
 

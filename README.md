@@ -86,7 +86,3 @@
 <p align="center">
   <img width="300" src="https://github.com/nealvo/nealvo/blob/main/dinosaur.gif">
 </p>
-
-
-![snake gif](https://github.com/nealvo/nealvo/blob/output/github-contribution-grid-snake.gif)
-

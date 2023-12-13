@@ -84,6 +84,6 @@
 <br/>    
 
 <p align="center">
-  <img width="300" src="path/to/your/dinosaur.gif">
+  <img width="300" src="https://github.com/nealvo/nealvo/blob/main/dinosaur.gif">
 </p>
 
